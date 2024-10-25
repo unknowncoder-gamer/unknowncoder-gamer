@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next js with ts
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Currently can't
-- 😄 Pronouns: adharsh
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I learn nextjs before even learning js
 
 <!---
