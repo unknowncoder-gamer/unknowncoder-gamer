@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @unknowncoder-gamer
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Next js with ts
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Currently can't
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I learn nextjs before even learning js
+- 👋 Hi, I’m adharsh
+- 👀 I’m interested in web development, cross-platform ios-android apps, want to make a game(it may be on my other real profile)
+- 🌱 I’m currently learning ts, python, C, C++, Rust [I will learn these in the order]
+- 💞️ I’m looking to collaborate on web and android apps
 
 <!---
 unknowncoder-gamer/unknowncoder-gamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
